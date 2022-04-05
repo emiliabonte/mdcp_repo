@@ -11,7 +11,7 @@ function clearOutputCookies() {
   const output = document.getElementById('cookies')
   output.textContent = ''
 }
-
+</script>
 <button onclick="showCookies()">Show cookies</button>
 
 <button onclick="clearOutputCookies()">
@@ -21,7 +21,7 @@ function clearOutputCookies() {
 <div>
   <code id="cookies"></code>
 </div>
-</script>
+
 
 
 
