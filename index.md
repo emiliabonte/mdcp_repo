@@ -1,3 +1,5 @@
+## Example #1: Simple usage
+
 <script>
 document.cookie = "name=oeschger; SameSite=None; Secure";
 document.cookie = "favorite_food=tripe; SameSite=None; Secure";
