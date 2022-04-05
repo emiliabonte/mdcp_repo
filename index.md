@@ -12,6 +12,8 @@ function clearOutputCookies() {
   output.textContent = ''
 }
 </script>
+
+
 <button onclick="showCookies()">Show cookies</button>
 
 <button onclick="clearOutputCookies()">
