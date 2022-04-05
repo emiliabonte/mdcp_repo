@@ -1,4 +1,4 @@
-## Example #1: Simple usage
+## Example 1: Simple usage
 
 <script>
 document.cookie = "name=oeschger; SameSite=None; Secure";
